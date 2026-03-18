@@ -1,4 +1,3 @@
-// CS300 - Project Two
 // Dominic Ranieri
 
 #include <iostream>
